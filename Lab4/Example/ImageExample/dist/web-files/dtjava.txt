@@ -1,0 +1,3 @@
+﻿FILE DELETED
+
+лабораторна 4 + робота з зображенням.rar->лабораторна 4 + робота з зображенням\вихідні файли програм\ImageExample\dist\web-files\dtjava.js has been removed since it was found to match the FILE FILTER= ExchangeLabs File Filter List 1: <in>*.js file filter.
